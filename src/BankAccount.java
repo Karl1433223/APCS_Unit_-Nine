@@ -9,7 +9,7 @@ public class BankAccount
 
     /**
      * Constructs a bank account with a zero balance.
-     */
+     */ int [][] balance
     public BankAccount()   {
         balance = 0;
     }
